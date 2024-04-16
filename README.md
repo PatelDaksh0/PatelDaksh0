@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PatelDaksh0
-- 👀 I’m interested in full stack Developer
-- 🌱 I’m currently learning web developing
-- 💞️ I’m looking to collaborate on websites
+- 👀 I’m interested in Computer science
+- 🌱 I’m currently learning machine lerning
+- 💞️ I’m looking to collaborate on websites dev
 - 📫 How to reach me gmail:daxindia14@gmail.com
-- 😄 Pronouns: DAKSh PATEl
-- ⚡ Fun fact: I M A gamer too
+- 😄 Pronouns: DAKSH PATEL
+- ⚡ Fun fact: I know HTML,CSS,Python
 
 <!---
 PatelDaksh0/PatelDaksh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

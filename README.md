@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & Web dev
 - 🌱 I’m currently learning machine lerning
 - 💞️ I’m looking to collaborate on websites dev
-- 📫 How to reach me gmail:daxindia14@gmail.com
+- 📫 How to reach me gmail: daxindia14@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---

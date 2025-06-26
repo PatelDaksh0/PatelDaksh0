@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PatelDaksh0
-- 👀 I’m interested in AI & Web dev
-- 🌱 I’m currently learning machine lerning
-- 💞️ I’m looking to collaborate on websites dev
-- 📫 How to reach me gmail: daxindia14@gmail.com
+- 👋 Hi, I’m Daksh Patel
+- 👀 I’m interested in AI & Programming
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Ai dev and programming
+- 📫 How to reach me Gmail: daxindia14@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---

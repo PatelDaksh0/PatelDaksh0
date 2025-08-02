@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - 
 Portfolio Projects
+
 🌐 Portfolio Website (Web Development)
 -Description: Personal portfolio showcasing web development and AI projects.
 

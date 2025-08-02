@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ai dev and programming
 - 📫 How to reach me Gmail: daxindia14@gmail.com
 - 😄 Pronouns: He/Him
-- 
+  
 Portfolio Projects
 
 🌐 Portfolio Website (Web Development)
@@ -39,7 +39,7 @@ View Project: http://dakshmades3.rf.gd/?i=3
 
 -Features: Product showcase, contact form, SEO optimization.
 
-vView Project: https://trading-pro-web-dev.vercel.app/
+View Project: https://trading-pro-web-dev.vercel.app/
 
 <!---
 PatelDaksh0/PatelDaksh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
